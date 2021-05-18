@@ -1,0 +1,36 @@
+.header{
+    background-color: aquamarine;
+    width: 100%;
+    height: 50px;
+    text-align: center;
+   
+}
+.Nav{
+    background-color: bisque;
+    height: 250px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+
+.article{
+    background-color: blue;
+    height: 350px;
+    width: 70%;
+    text-align: center;
+    float: right;
+}
+.ads{
+    background-color: chocolate;
+    height: 170px;
+    width: 30%;
+    text-align: center;
+    float: left;
+}
+.footer{
+    background-color: cornflowerblue;
+    height: 70px;
+    width: 70%;
+    text-align: center;
+    float: left;
+}
